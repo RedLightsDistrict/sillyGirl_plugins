@@ -1,0 +1,14 @@
+/**
+* @author Aming
+ * @encrypt_data wRRLxiAbK42Gxz7dQTVuQJllCfqX8QBFAHK4HyrJdFdPdf9j8S5LdFrruWM02JffOI2tAdJyi9smxNwq/UzPO3tzocTsOdJVPI3x76Qfaja4WHxMJOTRBZZ7ax0Nmv3FUcu/aFYfb8IHf7thKCkaUZsZEOseg1fifn4TjYtgUvwAdByypo3iQQE6DM88F9SVD6wG95GYeBJHlez58nWFbmpWLykXEh+1kNqZ5hOzAo5840S128gfflq7jupVjBmZsVRTRmZQ2uesewuJhimEhZbiugeecEfmqk52Qt5XWa7dSL4QBUbc2GWFJq5e3k60u45GVauJZtzyepxIKLRIZXR2DlDmSjQMHkfdk7t42pLSka94oHGswQ2m6vW9YvfResheDoeMH3utNT9IsBfxfztdSMRlgslGA3xJGSF6YZxDb3Hf6wLl9JVAghDtPgGyz6RiODRelorzeAYRisY/Fjsu2SRv9ZUoBvn3umkRMeAhFNP/hwKugFrDm8ZiPcrqz7C/J5uLmq/qia25VVTMJ5NSh8LB6mLotQXPhmOF4LCJLwj1Y1ltU2N0oDbYzgx1IAuUD7nKxayHInYFdh5Eey+KTOolwo0xlsXJSNksGFfQO2d3ei4WUb/lSjUPqo34mQKh/ecYj9xEIMINpVh0U7RgrZBios1FvRCtLDQw0nuIuTmXOjcHBrU76eu0ANXuHLyNf+YLv/JeGWTEB5zYqUbQkpjApqn5+sH6rT5RXPF+zEfa1kckDlbx6R2I9Q66gnluSQ0ZA3iYDlkDzG15rnnLXgvhxfluyDy3cxlwjUktddYjHS3g0/fO+ion2YdRJXC7FP3wf+PJMTCP4MxUl52VOlYAQxeSmQJbq6PCzTQwcBouBiIKQyNvzph28ZF73uKhRjJ2mwiMe+UVvVTsIaOOrSjFCb0vD9SEKWFoj+y41lYavPRoS5ZmY+R3JXnmwYDYVVu12WGBXIyP1Gc2z5g61BBe4sBhdpOeetSLYzRK71y1RZA9YQWSaJcoya88AUlXHUl6BJ/VJ1ZmH/ARoIEo1XaxjWAOpbctCjW/nAe6v3CGirwdN6nmkSBhCvz/mpFyfRpB6I/Hafcfzd+Rsk7tAdUaWuI56h4cZqviHVVXd+eaX3Vnkw/02fJA6SZycNO9c9pP4unaIpVeTadKTXQCijwibFh/myeqHZKoJIU9FZzxjYkqS8XefGzkOQB9k6v6mXjMaMJ5txX+VjKm0LaOUSnI+1hHsEBqyRcxUpk=
+* @version v1.0.3
+* @create_at 2022-09-07 17:00:20
+* @description 🐒自动替换文本中匹配的文字或符号
+* @title 字符替换
+* @rule 字符替换?
+* @rule 字符替换 ?
+* @priority 100
+* @admin false
+ * @public false
+* @encrypt true
+*/
